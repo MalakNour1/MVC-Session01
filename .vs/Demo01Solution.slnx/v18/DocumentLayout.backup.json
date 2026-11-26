@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Khale\\Documents\\Desktop\\Route Work\\Current Cycle\\07-ASP.NET MVC\\Online\\Demo01Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35F83EE4-39EC-4E08-A0BD-10AD6F07D112}|Demo01Online\\Demo01Online.csproj|c:\\users\\khale\\documents\\desktop\\route work\\current cycle\\07-asp.net mvc\\online\\demo01solution\\demo01online\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F83EE4-39EC-4E08-A0BD-10AD6F07D112}|Demo01Online\\Demo01Online.csproj|solutionrelative:demo01online\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F83EE4-39EC-4E08-A0BD-10AD6F07D112}|Demo01Online\\Demo01Online.csproj|c:\\users\\khale\\documents\\desktop\\route work\\current cycle\\07-asp.net mvc\\online\\demo01solution\\demo01online\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F83EE4-39EC-4E08-A0BD-10AD6F07D112}|Demo01Online\\Demo01Online.csproj|solutionrelative:demo01online\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F83EE4-39EC-4E08-A0BD-10AD6F07D112}|Demo01Online\\Demo01Online.csproj|c:\\users\\khale\\documents\\desktop\\route work\\current cycle\\07-asp.net mvc\\online\\demo01solution\\demo01online\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F83EE4-39EC-4E08-A0BD-10AD6F07D112}|Demo01Online\\Demo01Online.csproj|solutionrelative:demo01online\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F83EE4-39EC-4E08-A0BD-10AD6F07D112}|Demo01Online\\Demo01Online.csproj|c:\\users\\khale\\documents\\desktop\\route work\\current cycle\\07-asp.net mvc\\online\\demo01solution\\demo01online\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F83EE4-39EC-4E08-A0BD-10AD6F07D112}|Demo01Online\\Demo01Online.csproj|solutionrelative:demo01online\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Khale\\Documents\\Desktop\\Route Work\\Current Cycle\\07-ASP.NET MVC\\Online\\Demo01Solution\\Demo01Online\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Demo01Online\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Khale\\Documents\\Desktop\\Route Work\\Current Cycle\\07-ASP.NET MVC\\Online\\Demo01Solution\\Demo01Online\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Demo01Online\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T21:45:18.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Khale\\Documents\\Desktop\\Route Work\\Current Cycle\\07-ASP.NET MVC\\Online\\Demo01Solution\\Demo01Online\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Demo01Online\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Khale\\Documents\\Desktop\\Route Work\\Current Cycle\\07-ASP.NET MVC\\Online\\Demo01Solution\\Demo01Online\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "Demo01Online\\Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T21:24:52.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\Khale\\Documents\\Desktop\\Route Work\\Current Cycle\\07-ASP.NET MVC\\Online\\Demo01Solution\\Demo01Online\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "Demo01Online\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\Khale\\Documents\\Desktop\\Route Work\\Current Cycle\\07-ASP.NET MVC\\Online\\Demo01Solution\\Demo01Online\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "Demo01Online\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T21:10:22.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Khale\\Documents\\Desktop\\Route Work\\Current Cycle\\07-ASP.NET MVC\\Online\\Demo01Solution\\Demo01Online\\Program.cs",
+              "RelativeDocumentMoniker": "Demo01Online\\Program.cs",
+              "ToolTip": "C:\\Users\\Khale\\Documents\\Desktop\\Route Work\\Current Cycle\\07-ASP.NET MVC\\Online\\Demo01Solution\\Demo01Online\\Program.cs",
+              "RelativeToolTip": "Demo01Online\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-18T21:05:06.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
